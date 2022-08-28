@@ -15,7 +15,7 @@ namespace Kogane.Internal
             (
                 title: "",
                 message: $"Unity のバージョンをクリップボードにコピーしました\n{unityVersion}",
-                ok: "ok"
+                ok: "OK"
             );
         }
     }
